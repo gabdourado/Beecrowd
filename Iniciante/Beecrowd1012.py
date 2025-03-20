@@ -1,5 +1,5 @@
 line = input()
-line = line.split(" ")
+line = line.split()
 A = float(line[0])
 B = float(line[1])
 C = float(line[2])
