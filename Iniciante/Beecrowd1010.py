@@ -1,5 +1,5 @@
-linha1 = input().split(" ")
-linha2 = input().split(" ")
+linha1 = input().split()
+linha2 = input().split()
 
 total = int(linha1[1])*float(linha1[2]) +  int(linha2[1])*float(linha2[2])
 
